@@ -2,4 +2,4 @@
 
 ## Descripcion
 
-Proyecto de plataforma de preguntas y respuestas desarrollado con Laravel
+Proyecto de plataforma de preguntas y respuestas.
